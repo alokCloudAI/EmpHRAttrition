@@ -4,10 +4,10 @@ Prepare a model for the HR department to predict the Attrition and give the insi
 about the important factors associated with the attrition so that HR can take the corrective or
 previntive measures to stop or control the attrition.
 
-Data Expolaration
+0.Data Expolaration
 
-0.1 Overall Data Expolaration
-0.2 Data Seperation Based on Types
+  0.1 Overall Data Expolaration
+  0.2 Data Seperation Based on Types
 
 1. Data Cleaning
   1.1 Outlier Detection and Capping
